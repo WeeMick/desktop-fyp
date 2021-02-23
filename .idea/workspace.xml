@@ -22,7 +22,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c87fa93-0f33-43a4-89f1-14d1f11f432e" name="Default Changelist" comment="" />
+    <list default="true" id="4c87fa93-0f33-43a4-89f1-14d1f11f432e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/dashboard/dashboard.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fyp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fyp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/DefaultController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +81,13 @@
       <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
       <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
       <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
     </include_path>
   </component>
   <component name="ProjectId" id="1ot45xu8nPPqG9fiKRJCsRpCKYU" />
@@ -87,6 +105,14 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\krazy\Desktop\Symfony\fyp\templates\dashboard" />
+      <recent name="C:\Users\krazy\Desktop\Symfony\fyp\src\Resources\templates" />
+      <recent name="C:\Users\krazy\Desktop\Symfony\fyp\src\Resources\views" />
+      <recent name="C:\Users\krazy\Desktop\Symfony\fyp\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614092376005</updated>
-      <workItem from="1614092377918" duration="1919000" />
+      <workItem from="1614092377918" duration="4157000" />
     </task>
     <servers />
   </component>
@@ -118,9 +144,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="335" key="FileChooserDialogImpl/1920.558.1536.832/-1920.134.1920.1040/1920.-260.1280.760/0.0.1920.1160@0.0.1920.1160" timestamp="1614092394650" />
-    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1614095024515">
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1614097383634">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/1920.558.1536.832/-1920.134.1920.1040/1920.-260.1280.760/0.0.1920.1160@0.0.1920.1160" timestamp="1614095024515" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/1920.558.1536.832/-1920.134.1920.1040/1920.-260.1280.760/0.0.1920.1160@0.0.1920.1160" timestamp="1614097383634" />
   </component>
 </project>

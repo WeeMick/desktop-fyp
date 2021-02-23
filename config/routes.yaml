@@ -2,6 +2,6 @@
 #    path: /
 #    controller: App\Controller\DefaultController::index
 
-app_lucky_number:
-  path: /home
-  controller: App\Controller\DefaultController::number
+#app_lucky_number:
+#  path: /home
+#  controller: App\Controller\DefaultController::number
